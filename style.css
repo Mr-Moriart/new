@@ -7,13 +7,17 @@ html, body{
     min-height: 100vh;
 }
 .wrapper{
+    max-width: 1440px;
     display: flex;
     flex-direction: column;
     height: 100vh;
 }
+.container{
+    max-width: 1140px;
+}
 .header{
-    height: 100px;
-    background-color: brown;
+  height: 2300px;
+  background: url(BG.jpg) center / cover no-repeat;
 }
 .main{
     flex-grow: 1;
