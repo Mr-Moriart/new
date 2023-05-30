@@ -20,12 +20,11 @@ html, body{
   background: url(BG.jpg) center / cover no-repeat;
 }
 h1{
-    font-family: 'Chronicle Display';
-    font-style: normal;
-    font-weight: 600;
+   
+    
     font-size: 88px;
-    line-height: 100;
-    text-transform: capitalize;
+   
+    
     color: #ffffff;
 }
 
