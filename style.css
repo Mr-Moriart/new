@@ -16,7 +16,7 @@ html, body{
     max-width: 1140px;
 }
 .header{
-  height: 2300px;
+  height: 100vh;
   background: url(BG.jpg) center / cover no-repeat;
 }
 h1{
